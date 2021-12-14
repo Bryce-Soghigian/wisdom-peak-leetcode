@@ -1,7 +1,7 @@
 # This is a repo of my notes on wisdomcode's leetcode list. There are some really interesting algorithmic concepts in his list.  I will go through each question and reflect on them.
 
 
-Find the [list](./problem-list.md)
+Find the [list](./problem-list.txt)
 
 
 
