@@ -33,12 +33,12 @@ class TestSolution:
 	assert "case 1" = result of solution
 ```
 
-Difficulty::
-Duration::
-Interview Question Type::
-What did I do well?::
-What do I need to improve?::
-Intuitive Takeaways::
-What did I learn::
-```
+#### Difficulty::
+#### Duration::
+#### Interview Question Type::
+#### What did I do well?::
+#### What do I need to improve?::
+#### Intuitive Takeaways::
+#### What did I learn::
+
 
