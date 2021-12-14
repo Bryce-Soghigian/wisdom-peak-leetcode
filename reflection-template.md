@@ -1,7 +1,12 @@
 # [Problem Name](link_to_problem)
 
 
-## Notes About Problem Constraints and the problem statement
+## Notes/Clarifying Understanding of the Question
+
+
+## Problem Constraints
+
+## Problem Intuitions
 
 ## Approaches
 
