@@ -30,7 +30,14 @@ class TestSolution:
 
     """
     def test_main():
-	assert "case 1" = result of solution
+	solution_instance = Solution()
+	assert "case 1" == solution_instance()
+
+class Solution:
+
+	def __call__(self,):
+		pass
+
 ```
 
 #### Difficulty::
